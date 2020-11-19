@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	mailsenderssl.Send("host", "sender@example.com", "password", "recipient@example.com", "Title", "Body text")
+	mailsenderssl.Send("smtp.example.com", "sender@example.com", "password", "recipient@example.com", "Title", "Body text")
 }
 
 ```
