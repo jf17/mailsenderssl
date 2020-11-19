@@ -1,1 +1,2 @@
 # mailsenderssl
+For send email.
