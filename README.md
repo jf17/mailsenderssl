@@ -1,5 +1,5 @@
 # mailsenderssl
-For send email.
+Sending emails over SSL port 465.
 
 ## How to use it
 
