@@ -3,7 +3,7 @@ For send email.
 
 ## How to use it
 
-Example:
+main.go
 ```go
 package main
 
